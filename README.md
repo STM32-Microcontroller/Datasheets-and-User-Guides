@@ -1,2 +1,2 @@
 # Datasheets-and-User-Guides
-Alle Datenblätter und User Guides zu den Beispielen im Buch STM32-Mikrocontroller
+All data sheets and manuals for the examples in the book STM32-Microcontroller
